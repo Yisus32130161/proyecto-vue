@@ -12,7 +12,7 @@ import Sidebar from '../components/Sidebar.vue';
 </script>
 
 <style>
-.conatiner {
+.container {
     display: flex;
 }
 .content {
