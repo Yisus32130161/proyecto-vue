@@ -1,5 +1,8 @@
 # .
-
+## Autor
+- Nombre: Jesús Edgardo Gomez Casillas  
+- Email:  a23311016@uthermosillo.edu.mx
+- GitHub: [Yisus32130161](https://github.com/Yisus32130161/proyecto-vue)
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
